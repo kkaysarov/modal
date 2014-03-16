@@ -1,0 +1,17 @@
+{
+  "name": "modal",
+  "repo": "kkaysarov/modal",
+  "description": "Simple Javascript pop-up solution",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "modal.js"
+  ],
+  "styles": [
+    "modal.css"
+  ]
+}
